@@ -1,4 +1,4 @@
-## **VGG16 – Tutoriel – Reconnaissance d’Image** détaillé [ici](https://inside-machinelearning.com/2020/12/21/vgg16-tutoriel-reconnaissance-dimage/)
+## **VGG16 – Tutoriel – Reconnaissance d’Image** détaillé [ici](https://inside-machinelearning.com/vgg16-tutoriel-reconnaissance-dimage/)
 
 ## **Charger le modèle**
 
